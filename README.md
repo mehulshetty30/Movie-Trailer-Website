@@ -1,12 +1,12 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
 
-#Table of Contents:
+# Table of Contents:
 1. How to run the code
 2. License
 
 
-##How to run the code:
+## How to run the code:
 
 1. Download the ZIP package and unzip it.
 2. Most of the scripts will run by typing python followed by the filename of the script i.e entertainment_center.py.
@@ -15,5 +15,5 @@ Source code for a Movie Trailer website.
 
    How to interact with the website:
 
-##License:
+## License:
    The content of this repository is licensed under a GNU GENERAL PUBLIC LICENSE (https://choosealicense.com/licenses/gpl-3.0/#).
