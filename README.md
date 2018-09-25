@@ -8,7 +8,7 @@ Source code for a Movie Trailer website.
 
 ## How to run the code:
 
-1. Clone or duplicate this repository. The file will be saved in your 'Downloads' folder by default.
+1. Download the ZIP file (by clicking the 'Clone or Duplicate' button above).
 2. Most of the scripts will run by typing python followed by the filename of the script i.e entertainment_center.py in the terminal.
 
   a. If the script is in a different directory from which you are trying to run it, you will need to provide the full path to the script’s file, for example 'python /Users/myself/foldername/entertainment_center.py' .
