@@ -15,7 +15,6 @@ Source code for a Movie Trailer website.
 
   b.Some scripts may allow you to use options, or require that you provide input files. To learn how to use those scripts, open them in a text editor app (for example TextEdit, Notepad) and read the documentation near the top of the file.
 
-   How to interact with the website:
 
 ## License:
    The content of this repository is licensed under a GNU GENERAL PUBLIC LICENSE (https://choosealicense.com/licenses/gpl-3.0/#).
