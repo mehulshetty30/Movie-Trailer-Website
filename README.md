@@ -9,7 +9,7 @@ Source code for a Movie Trailer website.
 
 ## About:
 
-This is a program called 'Mini IMDb'. Running this program will open your web webbrowser
+This is a program called 'Mini IMDb'. Running this program will open your web browser
 and take you to this amazing website 'Mini IMDb' where you can watch the trailers for
 all of your favourite movies.
 
