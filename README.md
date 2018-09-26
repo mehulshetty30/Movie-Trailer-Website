@@ -16,8 +16,10 @@ all of your favourite movies.
 In order for this code to run, all you need to know is some python with a pinch of HTML and CSS.
 
 The two '.py' files contain:
+
 a. media.py - This file contains the class 'Movie' which can store information about the
    movie's title, summary, poster image URL and link to its trailer.
+   
 b. entertainment_center.py - This file contain multiple instances of the class 'Movie'.
 
 Keep in mind that the code was written in python (version 2.7.15).
