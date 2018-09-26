@@ -23,3 +23,4 @@ class Movie():
     def play_trailer(self):
         # Open the trailer URL and play it
         webbrowser.open(self.trailer)
+        
