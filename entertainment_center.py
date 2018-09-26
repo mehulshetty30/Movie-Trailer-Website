@@ -177,3 +177,4 @@ movies = [hereditary, avengers_infinity_war, black_panther,
           to_kill_a_mockingbird, monty_python_and_the_holy_grail, room]
 
 fresh_tomatoes.open_movies_page(movies)
+
